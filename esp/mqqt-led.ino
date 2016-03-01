@@ -1,3 +1,8 @@
+/*
+ source: https://openhardwarecoza.wordpress.com/2015/10/15/openhab-mqtt-arduino-and-esp8266-part-8-rgbw-led-strips/
+ source-source: http://chaozlabs.blogspot.co.za/2015/08/esp8266-in-wild-wifi-led-controller-hack.html
+*/
+
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
